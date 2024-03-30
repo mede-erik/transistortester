@@ -70,7 +70,7 @@ CFLAGS += -DWITH_ROTARY_SWITCH=2
 #                          LANG_FRANCAIS, LANG_HUNGARIAN,
 #                          LANG_ITALIAN,LANG_LITHUANIAN, LANG_POLISH, LANG_RUSSIAN , LANG_SLOVAK, LANG_SLOVENE,
 #                          LANG_SPANISH, LANG_UKRAINIAN
-UI_LANGUAGE = LANG_ENGLISH
+UI_LANGUAGE = LANG_ITALIAN
 
 # The LCD_CYRILLIC option is necessary, if you have a display with cyrillic characterset.
 # This lcd-display don't have a character for Ohm and for µ (micro).
@@ -153,10 +153,10 @@ CFLAGS += -DVOLUME_VALUE=48
 #CFLAGS += -DFONT_5X8
 #CFLAGS += -DFONT_6X8
 #CFLAGS += -DFONT_8X8
-#CFLAGS += -DFONT_7X12
+CFLAGS += -DFONT_7X12
 #CFLAGS += -DFONT_8X12thin
 #CFLAGS += -DFONT_8X14
-CFLAGS += -DFONT_8X15
+#CFLAGS += -DFONT_8X15
 #CFLAGS += -DFONT_8X16
 #CFLAGS += -DFONT_8X16thin
 
@@ -367,13 +367,13 @@ INHIBIT_SLEEP_MODE = 0
 
 # Select your programmer type, speed and port, if you wish to use avrdude.
 # setting for DIAMEX ALL_AVR, Atmel AVRISP-mkII
-PROGRAMMER=avrispmkII
-BitClock=1.0
-PORT=usb
-# setting for USBasp
-#PROGRAMMER=usbasp
-#BitClock=20
+#PROGRAMMER=avrispmkII
+#BitClock=1.0
 #PORT=usb
+# setting for USBasp
+PROGRAMMER=usbasp
+BitClock=20
+PORT=usb
 # setting for ARDUINO MEGA, requires bootloader
 #PROGRAMMER=wiring
 #PORT = /dev/ttyACM0

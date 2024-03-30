@@ -1,0 +1,2025 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulsi3.o)
+                              ../Obj/mega328_T4_v2_st7565/ReadADC.o (__mulsi3)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodqi4.o)
+                              ../Obj/mega328_T4_v2_st7565/function_menu.o (__udivmodqi4)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodhi4.o)
+                              ../Obj/mega328_T4_v2_st7565/RefVoltage.o (__udivmodhi4)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodhi4.o)
+                              ../Obj/mega328_T4_v2_st7565/function_menu.o (__divmodhi4)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodsi4.o)
+                              ../Obj/mega328_T4_v2_st7565/DisplayValue.o (__udivmodsi4)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodsi4.o)
+                              ../Obj/mega328_T4_v2_st7565/main.o (__divmodsi4)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negsi2.o)
+                              /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodsi4.o) (__negsi2)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega328p.o (exit)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_clear_bss.o)
+                              ../Obj/mega328_T4_v2_st7565/lcd-routines.o (__do_clear_bss)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulhisi3.o)
+                              ../Obj/mega328_T4_v2_st7565/main.o (__umulhisi3)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_usmulhisi3.o)
+                              ../Obj/mega328_T4_v2_st7565/main.o (__usmulhisi3)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muluhisi3.o)
+                              ../Obj/mega328_T4_v2_st7565/main.o (__muluhisi3)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulshisi3.o)
+                              ../Obj/mega328_T4_v2_st7565/ReadCapacity.o (__mulshisi3)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulsidi3.o)
+                              ../Obj/mega328_T4_v2_st7565/GetFrequency.o (__umulsidi3)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divdi3.o)
+                              ../Obj/mega328_T4_v2_st7565/GetFrequency.o (__divdi3)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivdi3.o)
+                              /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divdi3.o) (__udivdi3_umoddi3)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmod64.o)
+                              /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divdi3.o) (__udivmod64)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negdi2.o)
+                              /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divdi3.o) (__negdi2)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_prologue.o)
+                              ../Obj/mega328_T4_v2_st7565/lcd-routines.o (__prologue_saves__)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_epilogue.o)
+                              ../Obj/mega328_T4_v2_st7565/lcd-routines.o (__epilogue_restores__)
+/usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muldi3_6.o)
+                              /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulsidi3.o) (__muldi3_6)
+/usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+                              ../Obj/mega328_T4_v2_st7565/DisplayValue.o (__ultoa_ncheck)
+/usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(utoa.o)
+                              ../Obj/mega328_T4_v2_st7565/i2lcd.o (utoa)
+/usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                              /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(utoa.o) (__utoa_ncheck)
+/usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+                              /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(ultoa_ncheck.o) (strrev)
+/usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+                              ../Obj/mega328_T4_v2_st7565/lcd-routines.o (eeprom_read_byte)
+/usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_word.o)
+                              ../Obj/mega328_T4_v2_st7565/RefVoltage.o (eeprom_read_word)
+/usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+                              ../Obj/mega328_T4_v2_st7565/main.o (eeprom_write_byte)
+/usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_word.o)
+                              ../Obj/mega328_T4_v2_st7565/main.o (eeprom_write_word)
+/usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+                              /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_word.o) (eeprom_read_blraw)
+
+Sezioni di input scartate
+
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .text.lcd_write_word
+                0x00000000       0x18 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .text.lcd_fix_customchar
+                0x00000000        0x2 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .text.lcd_pgm_string
+                0x00000000       0x1c ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/i2lcd.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/i2lcd.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/PinLayout.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/PinLayout.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/RvalOut.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/RvalOut.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+ .text          0x00000000        0x2 ../Obj/mega328_T4_v2_st7565/swuart.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/swuart.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/swuart.o
+ .debug_line    0x00000000       0x3a ../Obj/mega328_T4_v2_st7565/swuart.o
+ .debug_info    0x00000000       0x26 ../Obj/mega328_T4_v2_st7565/swuart.o
+ .debug_abbrev  0x00000000       0x14 ../Obj/mega328_T4_v2_st7565/swuart.o
+ .debug_aranges
+                0x00000000       0x20 ../Obj/mega328_T4_v2_st7565/swuart.o
+ .debug_str     0x00000000       0x69 ../Obj/mega328_T4_v2_st7565/swuart.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/wait1000ms.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/wait1000ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadADC.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadADC.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/RefVoltage.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/RefVoltage.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/main.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/main.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/main.o
+ .progmem.data.bmp_inductor_data
+                0x00000000       0x12 ../Obj/mega328_T4_v2_st7565/main.o
+ .bss.mess_count
+                0x00000000        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+ .bss.empty_count
+                0x00000000        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+ .bss.tmpval2   0x00000000        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+ .bss.tmpval    0x00000000        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/Battery_check.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/Battery_check.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/Battery_check.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckPins.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckPins.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckPins.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/GetResistance.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/GetResistance.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/GetResistance.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/EntladePins.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/EntladePins.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/EntladePins.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/get_log.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/get_log.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/GetESR.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/GetESR.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/GetVloss.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/GetVloss.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/GetVloss.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/function_menu.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/function_menu.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/function_menu.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/message_key_released.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/message_key_released.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/message_key_released.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+ .text.GetFrequency
+                0x00000000      0x35c ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
+ .debug_info    0x00000000       0x5d ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
+ .debug_abbrev  0x00000000       0x26 ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
+ .debug_aranges
+                0x00000000       0x18 ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
+ .debug_line    0x00000000       0x35 ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
+ .debug_str     0x00000000      0x1b5 ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
+ .comment       0x00000000       0x13 ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
+ .debug_info    0x00000000       0x5d ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
+ .debug_abbrev  0x00000000       0x26 ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
+ .debug_aranges
+                0x00000000       0x18 ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
+ .debug_line    0x00000000       0x31 ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
+ .debug_str     0x00000000      0x1b1 ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
+ .comment       0x00000000       0x13 ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckUJT.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckUJT.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/CheckUJT.o
+ .debug_info    0x00000000       0x5d ../Obj/mega328_T4_v2_st7565/CheckUJT.o
+ .debug_abbrev  0x00000000       0x26 ../Obj/mega328_T4_v2_st7565/CheckUJT.o
+ .debug_aranges
+                0x00000000       0x18 ../Obj/mega328_T4_v2_st7565/CheckUJT.o
+ .debug_line    0x00000000       0x2b ../Obj/mega328_T4_v2_st7565/CheckUJT.o
+ .debug_str     0x00000000      0x1ab ../Obj/mega328_T4_v2_st7565/CheckUJT.o
+ .comment       0x00000000       0x13 ../Obj/mega328_T4_v2_st7565/CheckUJT.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ShowData.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ShowData.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/ShowData.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+ .text.EE_check_init
+                0x00000000        0x2 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+ .debug_info    0x00000000       0x80 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+ .debug_abbrev  0x00000000       0x46 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+ .debug_aranges
+                0x00000000       0x20 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+ .debug_ranges  0x00000000       0x10 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+ .debug_line    0x00000000       0x48 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+ .debug_str     0x00000000      0x1be ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+ .comment       0x00000000       0x13 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+ .debug_frame   0x00000000       0x24 ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/samplingADC.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/samplingADC.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/samplingADC.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+ .text          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_xtal.o
+ .data          0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_xtal.o
+ .bss           0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_xtal.o
+ .debug_line    0x00000000        0x0 ../Obj/mega328_T4_v2_st7565/sampling_xtal.o
+ .debug_str     0x00000000      0x144 ../Obj/mega328_T4_v2_st7565/sampling_xtal.o
+ .comment       0x00000000       0x13 ../Obj/mega328_T4_v2_st7565/sampling_xtal.o
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodqi4.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodqi4.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_exit.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_exit.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_usmulhisi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_usmulhisi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulshisi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulshisi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulshisi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulsidi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulsidi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.mul
+                0x00000000       0x56 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulsidi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulsidi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divdi3.o)
+ .text.libgcc.div
+                0x00000000       0x62 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divdi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divdi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divdi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.div
+                0x00000000       0x1c /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmod64.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmod64.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.div
+                0x00000000       0xa2 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmod64.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmod64.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negdi2.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negdi2.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negdi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negdi2.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negdi2.o)
+ .text.libgcc   0x00000000       0x20 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negdi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negdi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negdi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negdi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negdi2.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muldi3_6.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muldi3_6.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.mul
+                0x00000000       0x12 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc   0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muldi3_6.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muldi3_6.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(utoa.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(utoa.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(utoa.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_word.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_word.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_word.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_word.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_word.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_word.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+
+Configurazione della memoria
+
+Nome             Origine            Lunghezza          Attributi
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw!x
+eeprom           0x00810000         0x00010000         rw!x
+fuse             0x00820000         0x00000003         rw!x
+lock             0x00830000         0x00000400         rw!x
+signature        0x00840000         0x00000400         rw!x
+user_signatures  0x00850000         0x00000400         rw!x
+*default*        0x00000000         0xffffffff
+
+Script del linker e mappa della memoria
+
+Indirizzo della sezione .data impostato a 0x800100
+LOAD /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+LOAD ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
+LOAD ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+LOAD ../Obj/mega328_T4_v2_st7565/i2lcd.o
+LOAD ../Obj/mega328_T4_v2_st7565/PinLayout.o
+LOAD ../Obj/mega328_T4_v2_st7565/RvalOut.o
+LOAD ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
+LOAD ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+LOAD ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+LOAD ../Obj/mega328_T4_v2_st7565/swuart.o
+LOAD ../Obj/mega328_T4_v2_st7565/wait1000ms.o
+LOAD ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
+LOAD ../Obj/mega328_T4_v2_st7565/ReadADC.o
+LOAD ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+LOAD ../Obj/mega328_T4_v2_st7565/RefVoltage.o
+LOAD ../Obj/mega328_T4_v2_st7565/main.o
+LOAD ../Obj/mega328_T4_v2_st7565/Battery_check.o
+LOAD ../Obj/mega328_T4_v2_st7565/CheckPins.o
+LOAD ../Obj/mega328_T4_v2_st7565/GetResistance.o
+LOAD ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+LOAD ../Obj/mega328_T4_v2_st7565/EntladePins.o
+LOAD ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+LOAD ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
+LOAD ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+LOAD ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+LOAD ../Obj/mega328_T4_v2_st7565/get_log.o
+LOAD ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+LOAD ../Obj/mega328_T4_v2_st7565/GetESR.o
+LOAD ../Obj/mega328_T4_v2_st7565/GetVloss.o
+LOAD ../Obj/mega328_T4_v2_st7565/function_menu.o
+LOAD ../Obj/mega328_T4_v2_st7565/message_key_released.o
+LOAD ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+LOAD ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+LOAD ../Obj/mega328_T4_v2_st7565/CheckRotaryEncoder.o
+LOAD ../Obj/mega328_T4_v2_st7565/CalibrationCap.o
+LOAD ../Obj/mega328_T4_v2_st7565/CheckUJT.o
+LOAD ../Obj/mega328_T4_v2_st7565/ShowData.o
+LOAD ../Obj/mega328_T4_v2_st7565/EE_check_init.o
+LOAD ../Obj/mega328_T4_v2_st7565/samplingADC.o
+LOAD ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+LOAD ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+LOAD ../Obj/mega328_T4_v2_st7565/sampling_xtal.o
+START GROUP
+LOAD /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libm.a
+LOAD /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a
+LOAD /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a
+END GROUP
+                0x00000000                        __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                0x00020000                        __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x00800060                        __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                0x0000ffa0                        __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                        __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                      __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                        __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                        __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                        __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x728a
+ *(.vectors)
+ .vectors       0x00000000       0x68 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc   0x00000068      0x128 ../Obj/mega328_T4_v2_st7565/samplingADC.o
+                0x00000068                samplingADC
+                0x00000068                samplingADC_freqgen_sck
+                0x00000068                samplingADC_freqgen
+                0x00000190                        . = ALIGN (0x2)
+                0x00000190                        __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000190        0x0 linker stubs
+ *(.trampolines*)
+                0x00000190                        __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+ .progmem.data.bmp_number
+                0x00000190        0x6 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+ .progmem.data.bmp_vakdiode
+                0x00000196       0x20 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000196                bmp_vakdiode
+ .progmem.data.bmp_three_data
+                0x000001b6        0x9 ../Obj/mega328_T4_v2_st7565/main.o
+                0x000001b6                bmp_three_data
+ .progmem.data.bmp_two_data
+                0x000001bf        0x9 ../Obj/mega328_T4_v2_st7565/main.o
+                0x000001bf                bmp_two_data
+ .progmem.data.bmp_one_data
+                0x000001c8        0x9 ../Obj/mega328_T4_v2_st7565/main.o
+                0x000001c8                bmp_one_data
+ .progmem.data.bmp_pnp
+                0x000001d1        0x9 ../Obj/mega328_T4_v2_st7565/main.o
+                0x000001d1                bmp_pnp
+ .progmem.data.bmp_p_jfet
+                0x000001da        0x7 ../Obj/mega328_T4_v2_st7565/main.o
+                0x000001da                bmp_p_jfet
+ .progmem.data.bmp_p_d_mos
+                0x000001e1       0x12 ../Obj/mega328_T4_v2_st7565/main.o
+                0x000001e1                bmp_p_d_mos
+ .progmem.data.bmp_n_d_mos
+                0x000001f3        0x6 ../Obj/mega328_T4_v2_st7565/main.o
+                0x000001f3                bmp_n_d_mos
+ .progmem.data.bmp_p_e_mos
+                0x000001f9        0xa ../Obj/mega328_T4_v2_st7565/main.o
+                0x000001f9                bmp_p_e_mos
+ .progmem.data.bmp_p_d_igbt
+                0x00000203       0x24 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000203                bmp_p_d_igbt
+ .progmem.data.bmp_n_d_igbt
+                0x00000227        0xc ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000227                bmp_n_d_igbt
+ .progmem.data.bmp_p_e_igbt
+                0x00000233       0x18 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000233                bmp_p_e_igbt
+ .progmem.data.PinRLRHADCtab
+                0x0000024b        0x6 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000024b                PinRLRHADCtab
+ .progmem.data.HelpCalibration_str
+                0x00000251      0x116 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000251                HelpCalibration_str
+ .progmem.data.RHtab
+                0x00000367       0x12 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000367                RHtab
+ .progmem.data.LogTab
+                0x00000379       0x66 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000379                LogTab
+ .progmem.data.bigfont
+                0x000003df      0x2a0 ../Obj/mega328_T4_v2_st7565/main.o
+                0x000003df                bigfont
+ .progmem.data.nfont
+                0x0000067f      0x5a0 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000067f                nfont
+ .progmem.data.sfont
+                0x00000c1f       0x7e ../Obj/mega328_T4_v2_st7565/main.o
+                0x00000c1f                sfont
+                0x00000c9e                        . = ALIGN (0x2)
+ *fill*         0x00000c9d        0x1 
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000c9e                        __ctors_start = .
+ *(.ctors)
+                0x00000c9e                        __ctors_end = .
+                0x00000c9e                        __dtors_start = .
+ *(.dtors)
+                0x00000c9e                        __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x00000c9e        0x0 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000c9e                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000c9e        0xc /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000caa       0x10 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_clear_bss.o)
+                0x00000caa                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000cba        0x8 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000cc2        0x2 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+                0x00000cc2                __vector_22
+                0x00000cc2                __vector_1
+                0x00000cc2                __vector_24
+                0x00000cc2                __bad_interrupt
+                0x00000cc2                __vector_6
+                0x00000cc2                __vector_3
+                0x00000cc2                __vector_23
+                0x00000cc2                __vector_25
+                0x00000cc2                __vector_17
+                0x00000cc2                __vector_19
+                0x00000cc2                __vector_4
+                0x00000cc2                __vector_9
+                0x00000cc2                __vector_2
+                0x00000cc2                __vector_15
+                0x00000cc2                __vector_8
+                0x00000cc2                __vector_14
+                0x00000cc2                __vector_18
+                0x00000cc2                __vector_20
+ .text          0x00000cc4       0x78 ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
+                0x00000cc4                _lcd_hw_write
+ .text          0x00000d3c       0x38 ../Obj/mega328_T4_v2_st7565/i2lcd.o
+                0x00000d3c                i2lcd
+                0x00000d52                u2lcd
+                0x00000d62                i2lcd_space
+                0x00000d66                u2lcd_space
+                0x00000d68                lcd_space
+                0x00000d6c                lcd_minus
+                0x00000d70                lcd_equal
+ .text          0x00000d74       0xbc ../Obj/mega328_T4_v2_st7565/PinLayout.o
+                0x00000d74                PinLayout
+                0x00000dc2                PinLayoutLine
+                0x00000e1c                Rnum2pins
+ .text          0x00000e30       0x4a ../Obj/mega328_T4_v2_st7565/RvalOut.o
+                0x00000e30                RvalOut
+ .text          0x00000e7a       0xc4 ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
+                0x00000e7a                mVAusgabe
+                0x00000e96                UfAusgabe
+                0x00000ec2                SerienDiodenAusgabe
+                0x00000ee6                DiodeSymbol_withPins
+                0x00000efe                DiodeSymbol_ApinCpin
+                0x00000f0c                DiodeSymbol_ACpin
+                0x00000f1e                DiodeSymbol_CpinApin
+                0x00000f2c                DiodeSymbol_CApin
+ .text          0x00000f3e       0x4a ../Obj/mega328_T4_v2_st7565/wait1000ms.o
+                0x00000f3e                wait5s
+                0x00000f40                wait4s
+                0x00000f42                wait3s
+                0x00000f44                wait2s
+                0x00000f46                wait1000ms
+                0x00000f46                wait1s
+                0x00000f48                wait500ms
+                0x00000f4a                wait400ms
+                0x00000f4c                wait300ms
+                0x00000f4e                wait200ms
+                0x00000f50                wait100ms
+                0x00000f52                wait50ms
+                0x00000f54                wait40ms
+                0x00000f56                wait30ms
+                0x00000f58                wait20ms
+                0x00000f5a                wait10ms
+                0x00000f5c                wait5ms
+                0x00000f60                wait4ms
+                0x00000f62                wait3ms
+                0x00000f64                wait2ms
+                0x00000f66                wait1ms
+                0x00000f68                wait500us
+                0x00000f6a                wait400us
+                0x00000f6c                wait300us
+                0x00000f6e                wait200us
+                0x00000f70                wait100us
+                0x00000f72                wait50us
+                0x00000f74                wait40us
+                0x00000f76                wait30us
+                0x00000f78                wait20us
+                0x00000f7a                wait10us
+                0x00000f7c                wait5us
+                0x00000f7e                wait4us
+                0x00000f80                wait3us
+                0x00000f82                wait2us
+                0x00000f84                wait1us
+ .text          0x00000f88       0x5a ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
+                0x00000f88                sleep_10ms
+                0x00000f8a                sleep_5ms
+ .text          0x00000fe2       0xfa ../Obj/mega328_T4_v2_st7565/ReadADC.o
+                0x00000fe2                W20msReadADC
+                0x00000fea                W10msReadADC
+                0x00000ff0                W5msReadADC
+                0x00000ff8                ReadADC
+                0x000010b4                abs_diff
+                0x000010c0                vcc_diff
+                0x000010ca                unsigned_diff
+ .text          0x000010dc       0xa6 ../Obj/mega328_T4_v2_st7565/RefVoltage.o
+                0x000010dc                RefVoltage
+ .text          0x00001182       0x7e ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
+                0x00001182                GetRLmultip
+ .text          0x00001200       0x48 ../Obj/mega328_T4_v2_st7565/get_log.o
+                0x00001200                get_log
+ .text          0x00001248      0x34a ../Obj/mega328_T4_v2_st7565/GetESR.o
+                0x00001248                GetESR
+                0x00001592                        . = ALIGN (0x2)
+ *(.text.*)
+ .text.lcd_spaces
+                0x00001592       0x12 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00001592                lcd_spaces
+ .text.lcd_set_cursor
+                0x000015a4       0x1c ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000015a4                lcd_set_cursor
+ .text.lcd_line1
+                0x000015c0        0xc ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000015c0                lcd_line1
+ .text.lcd_line2
+                0x000015cc        0xe ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000015cc                lcd_line2
+ .text.lcd_line3
+                0x000015da        0xe ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000015da                lcd_line3
+ .text.lcd_line4
+                0x000015e8        0xe ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000015e8                lcd_line4
+ .text.lcd_save_position
+                0x000015f6       0x12 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000015f6                lcd_save_position
+ .text.lcd_restore_position
+                0x00001608        0xe ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00001608                lcd_restore_position
+ .text.lcd_command
+                0x00001616        0x8 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00001616                lcd_command
+ .text.lcd_powersave
+                0x0000161e        0xa ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000161e                lcd_powersave
+ .text.lcd_clear
+                0x00001628       0x2e ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00001628                lcd_clear
+ .text.lcd_init
+                0x00001656       0x6a ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00001656                lcd_init
+ .text.lcd_clear_line
+                0x000016c0        0xe ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000016c0                lcd_clear_line
+ .text.lcd_next_line
+                0x000016ce       0x2a ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000016ce                lcd_next_line
+ .text.lcd_next_line_wait
+                0x000016f8        0x6 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000016f8                lcd_next_line_wait
+ .text.lcd_clear_line1
+                0x000016fe        0x8 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000016fe                lcd_clear_line1
+ .text.lcd_clear_line2
+                0x00001706        0x8 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00001706                lcd_clear_line2
+ .text.reverse_byte
+                0x0000170e       0x20 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000170e                reverse_byte
+ .text.lcd_set_pixels
+                0x0000172e       0xf0 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000172e                lcd_set_pixels
+ .text.lcd_big_icon
+                0x0000181e       0x4a ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000181e                lcd_big_icon
+ .text.lcd_update_icon_opt
+                0x00001868       0x30 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00001868                lcd_update_icon_opt
+ .text.lcd_update_icon
+                0x00001898        0x6 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00001898                lcd_update_icon
+ .text.lcd_data
+                0x0000189e       0x94 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000189e                lcd_data
+ .text.lcd_testpin
+                0x00001932        0x6 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00001932                lcd_testpin
+ .text.lcd_string
+                0x00001938       0x16 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00001938                lcd_string
+ .text.lcd_fix_string
+                0x0000194e       0x1c ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000194e                lcd_fix_string
+ .text.lcd_pgm_bitmap
+                0x0000196a       0x16 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x0000196a                lcd_pgm_bitmap
+ .text.lcd_show_Cg
+                0x00001980       0x30 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00001980                lcd_show_Cg
+ .text.lcd_show_rds
+                0x000019b0       0x28 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x000019b0                lcd_show_rds
+ .text.DisplayValue
+                0x000019d8      0x20a ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+                0x000019d8                DisplayValue
+ .text.DisplayValue16
+                0x00001be2       0x16 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+                0x00001be2                DisplayValue16
+ .text.Display_mV
+                0x00001bf8       0x14 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+                0x00001bf8                Display_mV
+ .text.Display_Hz
+                0x00001c0c       0x14 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+                0x00001c0c                Display_Hz
+ .text.lcd_draw_pin
+                0x00001c20       0x22 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+                0x00001c20                lcd_draw_pin
+ .text.lcd_draw_trans_pins
+                0x00001c42       0x3e ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+                0x00001c42                lcd_draw_trans_pins
+ .text.check_rotary
+                0x00001c80       0x90 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+                0x00001c80                check_rotary
+ .text.wait_for_key_ms
+                0x00001d10       0xce ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+                0x00001d10                wait_for_key_ms
+ .text.wait_for_key_5s_line2
+                0x00001dde       0x52 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+                0x00001dde                wait_for_key_5s_line2
+ .text.__vector_7
+                0x00001e30        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00001e30                __vector_7
+ .text.__vector_21
+                0x00001e32        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00001e32                __vector_21
+ .text.search_vak_diode
+                0x00001e34       0x4a ../Obj/mega328_T4_v2_st7565/main.o
+                0x00001e34                search_vak_diode
+ .text.init_parts
+                0x00001e7e       0x46 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00001e7e                init_parts
+ .text.switch_tester_off
+                0x00001ec4        0xe ../Obj/mega328_T4_v2_st7565/main.o
+                0x00001ec4                switch_tester_off
+ .text.ShortedProbes
+                0x00001ed2       0x7a ../Obj/mega328_T4_v2_st7565/main.o
+                0x00001ed2                ShortedProbes
+ .text.AllProbesShorted
+                0x00001f4c       0x1e ../Obj/mega328_T4_v2_st7565/main.o
+                0x00001f4c                AllProbesShorted
+ .text.AutoCheck
+                0x00001f6a      0x778 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00001f6a                AutoCheck
+ .text.mark_as_uncalibrated
+                0x000026e2       0x24 ../Obj/mega328_T4_v2_st7565/main.o
+                0x000026e2                mark_as_uncalibrated
+ .text.GetIr    0x00002706       0x88 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00002706                GetIr
+ .text.startup.main
+                0x0000278e      0xb54 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0000278e                main
+ .text.Battery_check
+                0x000032e2       0x9a ../Obj/mega328_T4_v2_st7565/Battery_check.o
+                0x000032e2                Battery_check
+ .text.expand_FET_quadratic
+                0x0000337c       0x46 ../Obj/mega328_T4_v2_st7565/CheckPins.o
+                0x0000337c                expand_FET_quadratic
+ .text.CheckPins
+                0x000033c2      0xdde ../Obj/mega328_T4_v2_st7565/CheckPins.o
+                0x000033c2                CheckPins
+ .text.GetResistance
+                0x000041a0      0x404 ../Obj/mega328_T4_v2_st7565/GetResistance.o
+                0x000041a0                GetResistance
+ .text.ChargePin10ms
+                0x000045a4       0x2e ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+                0x000045a4                ChargePin10ms
+ .text.EntladePins
+                0x000045d2      0x11a ../Obj/mega328_T4_v2_st7565/EntladePins.o
+                0x000045d2                EntladePins
+ .text.Scale_C_with_vcc
+                0x000046ec       0x82 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+                0x000046ec                Scale_C_with_vcc
+ .text.ReadCapacity
+                0x0000476e      0x594 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+                0x0000476e                ReadCapacity
+ .text.__vector_13
+                0x00004d02       0x48 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+                0x00004d02                __vector_13
+ .text.__vector_10
+                0x00004d4a       0x40 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+                0x00004d4a                __vector_10
+ .text.Calibrate_UR
+                0x00004d8a      0x198 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+                0x00004d8a                Calibrate_UR
+ .text.show_resis
+                0x00004f22      0x17c ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+                0x00004f22                show_resis
+ .text.show_cap
+                0x0000509e       0xf2 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+                0x0000509e                show_cap
+ .text.Bat_update
+                0x00005190       0x10 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+                0x00005190                Bat_update
+ .text.Pwr_mode_check
+                0x000051a0       0x14 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+                0x000051a0                Pwr_mode_check
+ .text.show_Resis13
+                0x000051b4       0x92 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+                0x000051b4                show_Resis13
+ .text.show_Cap13
+                0x00005246       0xfa ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+                0x00005246                show_Cap13
+ .text.ReadInductance
+                0x00005340      0x47a ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+                0x00005340                ReadInductance
+ .text.GetVloss
+                0x000057ba      0x156 ../Obj/mega328_T4_v2_st7565/GetVloss.o
+                0x000057ba                GetVloss
+ .text.message2line
+                0x00005910       0x7c ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x00005910                message2line
+ .text.show_C_ESR
+                0x0000598c       0xc8 ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x0000598c                show_C_ESR
+ .text.make_frequency
+                0x00005a54      0x340 ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x00005a54                make_frequency
+ .text.do_10bit_PWM
+                0x00005d94      0x16a ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x00005d94                do_10bit_PWM
+ .text.set_contrast
+                0x00005efe       0x94 ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x00005efe                set_contrast
+ .text.set_big_cap_corr
+                0x00005f92       0xb2 ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x00005f92                set_big_cap_corr
+ .text.do_menu  0x00006044       0x5c ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x00006044                do_menu
+ .text.function_menu
+                0x000060a0       0xc8 ../Obj/mega328_T4_v2_st7565/function_menu.o
+                0x000060a0                function_menu
+ .text.message_key_released
+                0x00006168       0x2c ../Obj/mega328_T4_v2_st7565/message_key_released.o
+                0x00006168                message_key_released
+ .text.__vector_16
+                0x00006194       0x42 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+                0x00006194                __vector_16
+ .text.__vector_11
+                0x000061d6        0xa ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+                0x000061d6                __vector_11
+ .text.__vector_12
+                0x000061e0       0x18 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+                0x000061e0                __vector_12
+ .text.__vector_5
+                0x000061f8       0x64 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+                0x000061f8                __vector_5
+ .text.ReadBigCap
+                0x0000625c      0x264 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+                0x0000625c                ReadBigCap
+ .text.ShowData
+                0x000064c0      0x224 ../Obj/mega328_T4_v2_st7565/ShowData.o
+                0x000064c0                ShowData
+ .text.mylog    0x000066e4       0xb4 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+ .text.sampling_cap
+                0x00006798      0x18a ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+                0x00006798                sampling_cap
+ .text.sampling_cap_calibrate
+                0x00006922       0xb0 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+                0x00006922                sampling_cap_calibrate
+ .text.peaksearch
+                0x000069d2      0x242 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+ .text.sampling_lc
+                0x00006c14      0x32a ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+                0x00006c14                sampling_lc
+ .text.sampling_lc_calibrate
+                0x00006f3e       0x8c ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+                0x00006f3e                sampling_lc_calibrate
+ .text.libgcc.mul
+                0x00006fca       0x1e /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulsi3.o)
+                0x00006fca                __mulsi3
+ .text.libgcc.div
+                0x00006fe8       0x18 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodqi4.o)
+                0x00006fe8                __udivmodqi4
+ .text.libgcc.div
+                0x00007000       0x28 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodhi4.o)
+                0x00007000                __udivmodhi4
+ .text.libgcc.div
+                0x00007028       0x26 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodhi4.o)
+                0x00007028                __divmodhi4
+                0x00007028                _div
+ .text.libgcc.div
+                0x0000704e       0x44 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_udivmodsi4.o)
+                0x0000704e                __udivmodsi4
+ .text.libgcc.div
+                0x00007092       0x28 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_divmodsi4.o)
+                0x00007092                __divmodsi4
+ .text.libgcc.div
+                0x000070ba       0x10 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_negsi2.o)
+                0x000070ba                __negsi2
+ .text.libgcc.mul
+                0x000070ca       0x1e /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_umulhisi3.o)
+                0x000070ca                __umulhisi3
+ .text.libgcc.mul
+                0x000070e8        0xc /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_usmulhisi3.o)
+                0x000070e8                __usmulhisi3
+                0x000070ea                __usmulhisi3_tail
+ .text.libgcc.mul
+                0x000070f4       0x14 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_muluhisi3.o)
+                0x000070f4                __muluhisi3
+ .text.libgcc.mul
+                0x00007108        0xc /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_mulshisi3.o)
+                0x00007108                __mulshisi3
+                0x0000710c                __mulohisi3
+ .text.libgcc.prologue
+                0x00007114       0x38 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_prologue.o)
+                0x00007114                __prologue_saves__
+ .text.libgcc.prologue
+                0x0000714c       0x36 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_epilogue.o)
+                0x0000714c                __epilogue_restores__
+ .text.avr-libc
+                0x00007182       0x42 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(ultoa_ncheck.o)
+                0x00007182                __ultoa_ncheck
+                0x00007184                __ultoa_common
+ .text.avr-libc
+                0x000071c4       0x14 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(utoa.o)
+                0x000071c4                utoa
+                0x000071c4                __utoa
+ .text.avr-libc
+                0x000071d8       0x32 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(utoa_ncheck.o)
+                0x000071d8                __utoa_ncheck
+                0x000071da                __utoa_common
+ .text.avr-libc
+                0x0000720a       0x20 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+                0x0000720a                strrev
+ .text.avr-libc
+                0x0000722a       0x10 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_byte.o)
+                0x0000722a                eeprom_read_byte
+ .text.avr-libc
+                0x0000723a        0xa /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_word.o)
+                0x0000723a                eeprom_read_word
+ .text.avr-libc
+                0x00007244       0x1c /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_byte.o)
+                0x00007244                eeprom_write_byte
+                0x00007246                eeprom_write_r18
+ .text.avr-libc
+                0x00007260        0x6 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eewr_word.o)
+                0x00007260                eeprom_write_word
+ .text.avr-libc
+                0x00007266       0x20 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/libatmega328p.a(eerd_block.o)
+                0x00007266                eeprom_read_block
+                0x0000726a                eeprom_read_blraw
+                0x00007286                        . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00007286        0x0 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_exit.o)
+                0x00007286                exit
+                0x00007286                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00007286        0x4 /usr/lib/gcc/avr/13.2.0/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x0000728a                        . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x0000728a                        _etext = .
+
+.data           0x00800100        0x0 indirizzo di caricamento 0x0000728a
+                [!provide]                        PROVIDE (__data_start = .)
+ *(.data)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800100                        . = ALIGN (0x2)
+                0x00800100                        _edata = .
+                [!provide]                        PROVIDE (__data_end = .)
+
+.bss            0x00800100       0xc2
+                0x00800100                        PROVIDE (__bss_start = .)
+ *(.bss)
+ *(.bss*)
+ .bss.icon_yy   0x00800100        0x1 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00800100                icon_yy
+ .bss.icon_xx   0x00800101        0x1 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00800101                icon_xx
+ .bss._xpos     0x00800102        0x1 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00800102                _xpos
+ .bss._page     0x00800103        0x1 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00800103                _page
+ .bss.last_text_column
+                0x00800104        0x1 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00800104                last_text_column
+ .bss.last_text_line
+                0x00800105        0x1 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                0x00800105                last_text_line
+ .bss.display_time
+                0x00800106        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800106                display_time
+ .bss.last_line_used
+                0x00800108        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800108                last_line_used
+ .bss._lcd_column
+                0x00800109        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800109                _lcd_column
+ .bss.lcd_text_line
+                0x0080010a        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080010a                lcd_text_line
+ .bss.DC_Pwr_mode
+                0x0080010b        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080010b                DC_Pwr_mode
+ .bss.rotary_switch_present
+                0x0080010c        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080010c                rotary_switch_present
+ .bss.rotary    0x0080010d        0x7 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080010d                rotary
+ .bss.UnCalibrated
+                0x00800114        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800114                UnCalibrated
+ .bss.pin_rpl   0x00800115        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800115                pin_rpl
+ .bss.pin_rmi   0x00800117        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800117                pin_rmi
+ .bss.resis680mi
+                0x00800119        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800119                resis680mi
+ .bss.resis680pl
+                0x0080011b        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080011b                resis680pl
+ .bss.pin_combination
+                0x0080011d        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080011d                pin_combination
+ .bss.ADCconfig
+                0x0080011e        0x6 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080011e                ADCconfig
+ .bss.outval    0x00800124        0xa ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800124                outval
+ .bss.PartMode  0x0080012e        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080012e                PartMode
+ .bss.PartFound
+                0x0080012f        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080012f                PartFound
+ .bss.WithReference
+                0x00800130        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800130                WithReference
+ .bss.load_diff
+                0x00800131        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800131                load_diff
+ .bss.unfinished
+                0x00800133        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800133                unfinished
+ .bss.ovcnt16   0x00800134        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800134                ovcnt16
+ .bss.cell_mv   0x00800136        0x6 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800136                cell_mv
+ .bss.cap       0x0080013c       0x14 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080013c                cap
+ .bss.pinchange_max
+                0x00800150        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800150                pinchange_max
+ .bss.pinchange_count
+                0x00800152        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800152                pinchange_count
+ .bss.ext_freq  0x00800154        0x4 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800154                ext_freq
+ .bss.RHmultip  0x00800158        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800158                RHmultip
+ .bss.adc_vcc_reference
+                0x0080015a        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080015a                adc_vcc_reference
+ .bss.adc_internal_reference
+                0x0080015c        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080015c                adc_internal_reference
+ .bss.ref_mv_offs
+                0x0080015e        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080015e                ref_mv_offs
+ .bss.ref_mv    0x00800160        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800160                ref_mv
+ .bss._trans    0x00800162        0x2 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800162                _trans
+ .bss.ntrans    0x00800164       0x10 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800164                ntrans
+ .bss.ptrans    0x00800174       0x10 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800174                ptrans
+ .bss.diode_sequence
+                0x00800184        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800184                diode_sequence
+ .bss.NumOfDiodes
+                0x00800185        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800185                NumOfDiodes
+ .bss.diodes    0x00800186       0x18 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00800186                diodes
+ .bss.inductor_lpre
+                0x0080019e        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080019e                inductor_lpre
+ .bss.inductor_lx
+                0x0080019f        0x4 ../Obj/mega328_T4_v2_st7565/main.o
+                0x0080019f                inductor_lx
+ .bss.ResistorsFound
+                0x008001a3        0x1 ../Obj/mega328_T4_v2_st7565/main.o
+                0x008001a3                ResistorsFound
+ .bss.ResistorChecked
+                0x008001a4        0x3 ../Obj/mega328_T4_v2_st7565/main.o
+                0x008001a4                ResistorChecked
+ .bss.ResistorList
+                0x008001a7        0x3 ../Obj/mega328_T4_v2_st7565/main.o
+                0x008001a7                ResistorList
+ .bss.ResistorVal
+                0x008001aa        0xc ../Obj/mega328_T4_v2_st7565/main.o
+                0x008001aa                ResistorVal
+ .bss.lc_cpartmp
+                0x008001b6        0x2 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+                0x008001b6                lc_cpartmp
+ .bss.lc_lx     0x008001b8        0x4 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+                0x008001b8                lc_lx
+ .bss.lc_qx     0x008001bc        0x2 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+                0x008001bc                lc_qx
+ .bss.lc_fx     0x008001be        0x4 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+                0x008001be                lc_fx
+ *(COMMON)
+                0x008001c2                        PROVIDE (__bss_end = .)
+                0x0000728a                        __data_load_start = LOADADDR (.data)
+                0x0000728a                        __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001c2        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit .noinit.* .gnu.linkonce.n.*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x008001c2                        _end = .
+                [!provide]                        PROVIDE (__heap_start = .)
+                [!provide]                        PROVIDE (__flmap_init_label = DEFINED (__flmap_noinit_start)?__flmap_noinit_start:0x0)
+                [!provide]                        PROVIDE (__flmap = DEFINED (__flmap)?__flmap:0x0)
+
+.eeprom         0x00810000      0x350
+ *(.eeprom*)
+ .eeprom        0x00810000      0x341 ../Obj/mega328_T4_v2_st7565/main.o
+                0x00810006                cap_for_l_meas_str
+                0x00810016                REF_R_str
+                0x0081001d                REF_C_str
+                0x00810024                MinCap_str
+                0x0081002c                PrefixTab
+                0x00810034                ResIcon3
+                0x0081003c                ResIcon2
+                0x00810044                ResIcon1
+                0x0081004c                DiodeIcon2
+                0x00810054                DiodeIcon1
+                0x0081005c                CapIcon
+                0x00810064                RDS_str
+                0x00810069                CMETER_13_str
+                0x0081006d                CAP_13_str
+                0x00810074                RESIS_13_str
+                0x0081007f                C_ESR_str
+                0x0081008b                FatTP2_str
+                0x00810091                T50HZ
+                0x00810097                C0samp_str
+                0x0081009f                C0_str
+                0x008100a3                RILO_str
+                0x008100aa                RIHI_str
+                0x008100b1                R0_str
+                0x008100b5                RHRL_str
+                0x008100bb                RHRH_str
+                0x008100c9                RLRL_str
+                0x008100d7                RH1H_str
+                0x008100db                RH1L_str
+                0x008100df                RHfakt_str
+                0x008100e4                URef_str
+                0x008100e9                ICEs_str
+                0x008100ef                ICE0_str
+                0x008100f5                VERSION_str
+                0x00810103                Inductor_str
+                0x00810108                Resistor_str
+                0x0081010d                Dioden
+                0x00810112                zQ_str
+                0x00810117                iF_str
+                0x0081011c                AT05volt
+                0x00810123                KatAn_str
+                0x00810127                AnKat_str
+                0x0081012b                Ir_str
+                0x0081012f                Lis_str
+                0x00810132                VLOSS_str
+                0x0081013a                ESR_str
+                0x00810140                VCC_str
+                0x00810145                Cell_str
+                0x0081014b                CapZeich
+                0x0081014f                Vgs_str
+                0x00810154                vt_str
+                0x00810159                Uf_str
+                0x0081015d                Ube_str
+                0x00810162                N123_str
+                0x00810168                Pin_str
+                0x0081016d                PNP_str
+                0x00810175                NPN_str
+                0x0081017d                Cap_str
+                0x00810180                GateCap_str
+                0x00810184                hfe_str
+                0x00810189                igbt_str
+                0x0081018f                jfet_str
+                0x00810194                mosfet_str
+                0x00810199                DC_Pwr_Mode_str
+                0x008101a5                OK_str
+                0x008101a8                Bat_str
+                0x008101ae                CONTRAST_str
+                0x008101b8                SHORT_PROBES_str
+                0x008101c7                FULLCHECK_str
+                0x008101d0                TURN_str
+                0x008101d7                SetCapCorr_str
+                0x008101e8                PWM_10bit_str
+                0x008101f3                F_GEN_str
+                0x00810200                OFF_str
+                0x00810209                SHOW_str
+                0x00810215                VOLTAGE_str
+                0x0081021f                TESTER_str
+                0x0081022a                SELECTION_str
+                0x00810235                ATE
+                0x00810243                RELPROBE
+                0x00810251                SELFTEST
+                0x0081025d                TestTimedOut
+                0x00810266                Detected
+                0x0081026e                TestFailed1
+                0x0081027e                Unknown
+                0x00810286                Thyristor
+                0x0081028a                Triac
+                0x00810290                Bauteil
+                0x00810299                TestFailed2
+                0x008102a1                BatEmpty
+                0x008102ab                BatWeak
+                0x008102b2                TestRunning
+                0x008102bb                RLtab
+                0x00810315                EE_Volume_Value
+                0x00810316                EE_ESR_ZEROtab
+                0x0081031a                big_cap_corr
+                0x0081031b                c_zero_tab2_hi
+                0x00810329                c_zero_tab2_lo
+                0x00810337                c_zero_tab
+                0x0081033e                ref_offset
+                0x00810340                RefDiff
+ .eeprom        0x00810341        0xd ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+                0x00810341                RL_METER_str
+ .eeprom        0x0081034e        0x2 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+                0x0081034e                lc_cpar_ee
+                0x00810350                        __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x12
+ *(.comment)
+ .comment       0x00000000       0x12 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+                                 0x13 (dimensione prima del rilassamento)
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/main.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/Battery_check.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/CheckPins.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/GetResistance.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/EntladePins.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/GetVloss.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/function_menu.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/message_key_released.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/ShowData.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+ .comment       0x00000012       0x13 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x678
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
+ .debug_aranges
+                0x00000020      0x118 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .debug_aranges
+                0x00000138       0x20 ../Obj/mega328_T4_v2_st7565/i2lcd.o
+ .debug_aranges
+                0x00000158       0x20 ../Obj/mega328_T4_v2_st7565/PinLayout.o
+ .debug_aranges
+                0x00000178       0x20 ../Obj/mega328_T4_v2_st7565/RvalOut.o
+ .debug_aranges
+                0x00000198       0x20 ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
+ .debug_aranges
+                0x000001b8       0x38 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+ .debug_aranges
+                0x000001f0       0x28 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+ .debug_aranges
+                0x00000218       0x20 ../Obj/mega328_T4_v2_st7565/wait1000ms.o
+ .debug_aranges
+                0x00000238       0x20 ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
+ .debug_aranges
+                0x00000258       0x20 ../Obj/mega328_T4_v2_st7565/ReadADC.o
+ .debug_aranges
+                0x00000278       0x30 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+ .debug_aranges
+                0x000002a8       0x20 ../Obj/mega328_T4_v2_st7565/RefVoltage.o
+ .debug_aranges
+                0x000002c8       0x70 ../Obj/mega328_T4_v2_st7565/main.o
+ .debug_aranges
+                0x00000338       0x20 ../Obj/mega328_T4_v2_st7565/Battery_check.o
+ .debug_aranges
+                0x00000358       0x28 ../Obj/mega328_T4_v2_st7565/CheckPins.o
+ .debug_aranges
+                0x00000380       0x20 ../Obj/mega328_T4_v2_st7565/GetResistance.o
+ .debug_aranges
+                0x000003a0       0x20 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+ .debug_aranges
+                0x000003c0       0x20 ../Obj/mega328_T4_v2_st7565/EntladePins.o
+ .debug_aranges
+                0x000003e0       0x38 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+ .debug_aranges
+                0x00000418       0x20 ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
+ .debug_aranges
+                0x00000438       0x20 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+ .debug_aranges
+                0x00000458       0x48 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+ .debug_aranges
+                0x000004a0       0x20 ../Obj/mega328_T4_v2_st7565/get_log.o
+ .debug_aranges
+                0x000004c0       0x20 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+ .debug_aranges
+                0x000004e0       0x20 ../Obj/mega328_T4_v2_st7565/GetESR.o
+ .debug_aranges
+                0x00000500       0x20 ../Obj/mega328_T4_v2_st7565/GetVloss.o
+ .debug_aranges
+                0x00000520       0x58 ../Obj/mega328_T4_v2_st7565/function_menu.o
+ .debug_aranges
+                0x00000578       0x20 ../Obj/mega328_T4_v2_st7565/message_key_released.o
+ .debug_aranges
+                0x00000598       0x40 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+ .debug_aranges
+                0x000005d8       0x20 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+ .debug_aranges
+                0x000005f8       0x20 ../Obj/mega328_T4_v2_st7565/ShowData.o
+ .debug_aranges
+                0x00000618       0x30 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+ .debug_aranges
+                0x00000648       0x30 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xcb23
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_info    0x000005f4       0x26 ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
+ .debug_info    0x0000061a     0x12d5 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .debug_info    0x000018ef       0x26 ../Obj/mega328_T4_v2_st7565/i2lcd.o
+ .debug_info    0x00001915       0x26 ../Obj/mega328_T4_v2_st7565/PinLayout.o
+ .debug_info    0x0000193b       0x26 ../Obj/mega328_T4_v2_st7565/RvalOut.o
+ .debug_info    0x00001961       0x26 ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
+ .debug_info    0x00001987      0x593 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+ .debug_info    0x00001f1a      0x312 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+ .debug_info    0x0000222c       0x26 ../Obj/mega328_T4_v2_st7565/wait1000ms.o
+ .debug_info    0x00002252       0x26 ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
+ .debug_info    0x00002278       0x26 ../Obj/mega328_T4_v2_st7565/ReadADC.o
+ .debug_info    0x0000229e      0x36e ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+ .debug_info    0x0000260c       0x26 ../Obj/mega328_T4_v2_st7565/RefVoltage.o
+ .debug_info    0x00002632     0x38ba ../Obj/mega328_T4_v2_st7565/main.o
+ .debug_info    0x00005eec      0x275 ../Obj/mega328_T4_v2_st7565/Battery_check.o
+ .debug_info    0x00006161     0x126d ../Obj/mega328_T4_v2_st7565/CheckPins.o
+ .debug_info    0x000073ce      0x6e8 ../Obj/mega328_T4_v2_st7565/GetResistance.o
+ .debug_info    0x00007ab6       0xce ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+ .debug_info    0x00007b84      0x1da ../Obj/mega328_T4_v2_st7565/EntladePins.o
+ .debug_info    0x00007d5e      0x679 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+ .debug_info    0x000083d7       0x26 ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
+ .debug_info    0x000083fd      0x2ec ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+ .debug_info    0x000086e9      0xcc0 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+ .debug_info    0x000093a9       0x26 ../Obj/mega328_T4_v2_st7565/get_log.o
+ .debug_info    0x000093cf      0x530 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+ .debug_info    0x000098ff       0x26 ../Obj/mega328_T4_v2_st7565/GetESR.o
+ .debug_info    0x00009925      0x361 ../Obj/mega328_T4_v2_st7565/GetVloss.o
+ .debug_info    0x00009c86      0xdda ../Obj/mega328_T4_v2_st7565/function_menu.o
+ .debug_info    0x0000aa60      0x11f ../Obj/mega328_T4_v2_st7565/message_key_released.o
+ .debug_info    0x0000ab7f      0x4ab ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+ .debug_info    0x0000b02a      0x41a ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+ .debug_info    0x0000b444      0x76e ../Obj/mega328_T4_v2_st7565/ShowData.o
+ .debug_info    0x0000bbb2      0x663 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+ .debug_info    0x0000c215      0x90e ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+
+.debug_abbrev   0x00000000     0x2e50
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2       0x14 ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
+ .debug_abbrev  0x000005b6      0x32e ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .debug_abbrev  0x000008e4       0x14 ../Obj/mega328_T4_v2_st7565/i2lcd.o
+ .debug_abbrev  0x000008f8       0x14 ../Obj/mega328_T4_v2_st7565/PinLayout.o
+ .debug_abbrev  0x0000090c       0x14 ../Obj/mega328_T4_v2_st7565/RvalOut.o
+ .debug_abbrev  0x00000920       0x14 ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
+ .debug_abbrev  0x00000934      0x1ed ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+ .debug_abbrev  0x00000b21      0x174 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+ .debug_abbrev  0x00000c95       0x14 ../Obj/mega328_T4_v2_st7565/wait1000ms.o
+ .debug_abbrev  0x00000ca9       0x14 ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
+ .debug_abbrev  0x00000cbd       0x14 ../Obj/mega328_T4_v2_st7565/ReadADC.o
+ .debug_abbrev  0x00000cd1      0x194 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+ .debug_abbrev  0x00000e65       0x14 ../Obj/mega328_T4_v2_st7565/RefVoltage.o
+ .debug_abbrev  0x00000e79      0x407 ../Obj/mega328_T4_v2_st7565/main.o
+ .debug_abbrev  0x00001280      0x117 ../Obj/mega328_T4_v2_st7565/Battery_check.o
+ .debug_abbrev  0x00001397      0x207 ../Obj/mega328_T4_v2_st7565/CheckPins.o
+ .debug_abbrev  0x0000159e      0x187 ../Obj/mega328_T4_v2_st7565/GetResistance.o
+ .debug_abbrev  0x00001725       0x8c ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+ .debug_abbrev  0x000017b1       0xe3 ../Obj/mega328_T4_v2_st7565/EntladePins.o
+ .debug_abbrev  0x00001894      0x1f6 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+ .debug_abbrev  0x00001a8a       0x14 ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
+ .debug_abbrev  0x00001a9e      0x102 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+ .debug_abbrev  0x00001ba0      0x28f ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+ .debug_abbrev  0x00001e2f       0x14 ../Obj/mega328_T4_v2_st7565/get_log.o
+ .debug_abbrev  0x00001e43      0x1b0 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+ .debug_abbrev  0x00001ff3       0x14 ../Obj/mega328_T4_v2_st7565/GetESR.o
+ .debug_abbrev  0x00002007      0x186 ../Obj/mega328_T4_v2_st7565/GetVloss.o
+ .debug_abbrev  0x0000218d      0x28c ../Obj/mega328_T4_v2_st7565/function_menu.o
+ .debug_abbrev  0x00002419       0xdf ../Obj/mega328_T4_v2_st7565/message_key_released.o
+ .debug_abbrev  0x000024f8      0x1ee ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+ .debug_abbrev  0x000026e6      0x1b5 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+ .debug_abbrev  0x0000289b      0x17a ../Obj/mega328_T4_v2_st7565/ShowData.o
+ .debug_abbrev  0x00002a15      0x1ed ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+ .debug_abbrev  0x00002c02      0x24e ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+
+.debug_line     0x00000000    0x1022e
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1d /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_line    0x0000001d      0x1a2 ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
+ .debug_line    0x000001bf     0x1076 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .debug_line    0x00001235       0xd4 ../Obj/mega328_T4_v2_st7565/i2lcd.o
+ .debug_line    0x00001309      0x254 ../Obj/mega328_T4_v2_st7565/PinLayout.o
+ .debug_line    0x0000155d      0x106 ../Obj/mega328_T4_v2_st7565/RvalOut.o
+ .debug_line    0x00001663      0x264 ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
+ .debug_line    0x000018c7      0x6ff ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+ .debug_line    0x00001fc6      0x12f ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+ .debug_line    0x000020f5      0x116 ../Obj/mega328_T4_v2_st7565/wait1000ms.o
+ .debug_line    0x0000220b      0x126 ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
+ .debug_line    0x00002331      0x269 ../Obj/mega328_T4_v2_st7565/ReadADC.o
+ .debug_line    0x0000259a      0x688 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+ .debug_line    0x00002c22      0x1c3 ../Obj/mega328_T4_v2_st7565/RefVoltage.o
+ .debug_line    0x00002de5     0x2dd2 ../Obj/mega328_T4_v2_st7565/main.o
+ .debug_line    0x00005bb7      0x1d2 ../Obj/mega328_T4_v2_st7565/Battery_check.o
+ .debug_line    0x00005d89     0x2407 ../Obj/mega328_T4_v2_st7565/CheckPins.o
+ .debug_line    0x00008190      0x98d ../Obj/mega328_T4_v2_st7565/GetResistance.o
+ .debug_line    0x00008b1d      0x111 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+ .debug_line    0x00008c2e      0x3fc ../Obj/mega328_T4_v2_st7565/EntladePins.o
+ .debug_line    0x0000902a      0xc7c ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+ .debug_line    0x00009ca6      0x188 ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
+ .debug_line    0x00009e2e      0x4d6 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+ .debug_line    0x0000a304      0x752 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+ .debug_line    0x0000aa56       0xfa ../Obj/mega328_T4_v2_st7565/get_log.o
+ .debug_line    0x0000ab50      0xa70 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+ .debug_line    0x0000b5c0      0x8aa ../Obj/mega328_T4_v2_st7565/GetESR.o
+ .debug_line    0x0000be6a      0x454 ../Obj/mega328_T4_v2_st7565/GetVloss.o
+ .debug_line    0x0000c2be     0x1838 ../Obj/mega328_T4_v2_st7565/function_menu.o
+ .debug_line    0x0000daf6      0x116 ../Obj/mega328_T4_v2_st7565/message_key_released.o
+ .debug_line    0x0000dc0c      0x85e ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+ .debug_line    0x0000e46a      0x609 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+ .debug_line    0x0000ea73      0x40e ../Obj/mega328_T4_v2_st7565/ShowData.o
+ .debug_line    0x0000ee81      0x6af ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+ .debug_line    0x0000f530      0xcfe ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+
+.debug_frame    0x00000000      0xca4
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x2b4 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .debug_frame   0x000002b4       0xc0 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+ .debug_frame   0x00000374       0x40 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+ .debug_frame   0x000003b4       0x60 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+ .debug_frame   0x00000414      0x124 ../Obj/mega328_T4_v2_st7565/main.o
+ .debug_frame   0x00000538       0x38 ../Obj/mega328_T4_v2_st7565/Battery_check.o
+ .debug_frame   0x00000570       0x5c ../Obj/mega328_T4_v2_st7565/CheckPins.o
+ .debug_frame   0x000005cc       0x48 ../Obj/mega328_T4_v2_st7565/GetResistance.o
+ .debug_frame   0x00000614       0x2c ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+ .debug_frame   0x00000640       0x3c ../Obj/mega328_T4_v2_st7565/EntladePins.o
+ .debug_frame   0x0000067c       0x9c ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+ .debug_frame   0x00000718       0x40 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+ .debug_frame   0x00000758       0xc4 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+ .debug_frame   0x0000081c       0x4c ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+ .debug_frame   0x00000868       0x48 ../Obj/mega328_T4_v2_st7565/GetVloss.o
+ .debug_frame   0x000008b0      0x150 ../Obj/mega328_T4_v2_st7565/function_menu.o
+ .debug_frame   0x00000a00       0x30 ../Obj/mega328_T4_v2_st7565/message_key_released.o
+ .debug_frame   0x00000a30       0xac ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+ .debug_frame   0x00000adc       0x40 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+ .debug_frame   0x00000b1c       0x38 ../Obj/mega328_T4_v2_st7565/ShowData.o
+ .debug_frame   0x00000b54       0xac ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+ .debug_frame   0x00000c00       0xa4 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+
+.debug_str      0x00000000     0x1c35
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 /usr/lib/gcc/avr/13.2.0/../../../../avr/lib/avr5/crtatmega328p.o
+ .debug_str     0x00000208     0x1a2d ../Obj/mega328_T4_v2_st7565/lcd_hw_4_bit.o
+                                 0x6f (dimensione prima del rilassamento)
+ .debug_str     0x00001c35      0x593 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .debug_str     0x00001c35       0x68 ../Obj/mega328_T4_v2_st7565/i2lcd.o
+ .debug_str     0x00001c35       0x6c ../Obj/mega328_T4_v2_st7565/PinLayout.o
+ .debug_str     0x00001c35       0x6a ../Obj/mega328_T4_v2_st7565/RvalOut.o
+ .debug_str     0x00001c35       0x6c ../Obj/mega328_T4_v2_st7565/UfAusgabe.o
+ .debug_str     0x00001c35      0x2cb ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+ .debug_str     0x00001c35      0x27a ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+ .debug_str     0x00001c35       0x6d ../Obj/mega328_T4_v2_st7565/wait1000ms.o
+ .debug_str     0x00001c35       0x6c ../Obj/mega328_T4_v2_st7565/sleep_5ms.o
+ .debug_str     0x00001c35       0x6a ../Obj/mega328_T4_v2_st7565/ReadADC.o
+ .debug_str     0x00001c35      0x2eb ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+ .debug_str     0x00001c35       0x6d ../Obj/mega328_T4_v2_st7565/RefVoltage.o
+ .debug_str     0x00001c35      0xf65 ../Obj/mega328_T4_v2_st7565/main.o
+ .debug_str     0x00001c35      0x282 ../Obj/mega328_T4_v2_st7565/Battery_check.o
+ .debug_str     0x00001c35      0x417 ../Obj/mega328_T4_v2_st7565/CheckPins.o
+ .debug_str     0x00001c35      0x39f ../Obj/mega328_T4_v2_st7565/GetResistance.o
+ .debug_str     0x00001c35      0x1ed ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+ .debug_str     0x00001c35      0x21b ../Obj/mega328_T4_v2_st7565/EntladePins.o
+ .debug_str     0x00001c35      0x42b ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+ .debug_str     0x00001c35       0x6e ../Obj/mega328_T4_v2_st7565/GetRLmultip.o
+ .debug_str     0x00001c35      0x2a8 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+ .debug_str     0x00001c35      0x54b ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+ .debug_str     0x00001c35       0x6a ../Obj/mega328_T4_v2_st7565/get_log.o
+ .debug_str     0x00001c35      0x375 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+ .debug_str     0x00001c35       0x69 ../Obj/mega328_T4_v2_st7565/GetESR.o
+ .debug_str     0x00001c35      0x2a1 ../Obj/mega328_T4_v2_st7565/GetVloss.o
+ .debug_str     0x00001c35      0x5bd ../Obj/mega328_T4_v2_st7565/function_menu.o
+ .debug_str     0x00001c35      0x20f ../Obj/mega328_T4_v2_st7565/message_key_released.o
+ .debug_str     0x00001c35      0x31e ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+ .debug_str     0x00001c35      0x302 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+ .debug_str     0x00001c35      0x395 ../Obj/mega328_T4_v2_st7565/ShowData.o
+ .debug_str     0x00001c35      0x369 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+ .debug_str     0x00001c35      0x407 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+
+.debug_loc      0x00000000     0x8df7
+ *(.debug_loc)
+ .debug_loc     0x00000000      0xe28 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .debug_loc     0x00000e28      0x6a0 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+ .debug_loc     0x000014c8      0x16e ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+ .debug_loc     0x00001636      0x2f8 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+ .debug_loc     0x0000192e      0xda0 ../Obj/mega328_T4_v2_st7565/main.o
+ .debug_loc     0x000026ce       0xb3 ../Obj/mega328_T4_v2_st7565/Battery_check.o
+ .debug_loc     0x00002781     0x20d8 ../Obj/mega328_T4_v2_st7565/CheckPins.o
+ .debug_loc     0x00004859      0x9ef ../Obj/mega328_T4_v2_st7565/GetResistance.o
+ .debug_loc     0x00005248       0xa2 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+ .debug_loc     0x000052ea      0x26f ../Obj/mega328_T4_v2_st7565/EntladePins.o
+ .debug_loc     0x00005559      0x416 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+ .debug_loc     0x0000596f       0x94 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+ .debug_loc     0x00005a03      0x3c4 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+ .debug_loc     0x00005dc7      0x50d ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+ .debug_loc     0x000062d4      0x274 ../Obj/mega328_T4_v2_st7565/GetVloss.o
+ .debug_loc     0x00006548      0xd7f ../Obj/mega328_T4_v2_st7565/function_menu.o
+ .debug_loc     0x000072c7       0xab ../Obj/mega328_T4_v2_st7565/message_key_released.o
+ .debug_loc     0x00007372      0x42e ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+ .debug_loc     0x000077a0      0x1bc ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+ .debug_loc     0x0000795c      0x106 ../Obj/mega328_T4_v2_st7565/ShowData.o
+ .debug_loc     0x00007a62      0x8b6 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+ .debug_loc     0x00008318      0xadf ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x558
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x120 ../Obj/mega328_T4_v2_st7565/lcd-routines.o
+ .debug_ranges  0x00000120       0x28 ../Obj/mega328_T4_v2_st7565/DisplayValue.o
+ .debug_ranges  0x00000148       0x18 ../Obj/mega328_T4_v2_st7565/lcd-draw.o
+ .debug_ranges  0x00000160       0x68 ../Obj/mega328_T4_v2_st7565/wait_for_key_ms.o
+ .debug_ranges  0x000001c8       0xb8 ../Obj/mega328_T4_v2_st7565/main.o
+ .debug_ranges  0x00000280       0x10 ../Obj/mega328_T4_v2_st7565/Battery_check.o
+ .debug_ranges  0x00000290       0x60 ../Obj/mega328_T4_v2_st7565/CheckPins.o
+ .debug_ranges  0x000002f0       0x40 ../Obj/mega328_T4_v2_st7565/GetResistance.o
+ .debug_ranges  0x00000330       0x10 ../Obj/mega328_T4_v2_st7565/ChargePin10ms.o
+ .debug_ranges  0x00000340       0x10 ../Obj/mega328_T4_v2_st7565/EntladePins.o
+ .debug_ranges  0x00000350       0x28 ../Obj/mega328_T4_v2_st7565/ReadCapacity.o
+ .debug_ranges  0x00000378       0x10 ../Obj/mega328_T4_v2_st7565/Calibrate_UR.o
+ .debug_ranges  0x00000388       0x38 ../Obj/mega328_T4_v2_st7565/show_Resis_Cap.o
+ .debug_ranges  0x000003c0       0x10 ../Obj/mega328_T4_v2_st7565/ReadInductance.o
+ .debug_ranges  0x000003d0       0x10 ../Obj/mega328_T4_v2_st7565/GetVloss.o
+ .debug_ranges  0x000003e0       0x88 ../Obj/mega328_T4_v2_st7565/function_menu.o
+ .debug_ranges  0x00000468       0x10 ../Obj/mega328_T4_v2_st7565/message_key_released.o
+ .debug_ranges  0x00000478       0x30 ../Obj/mega328_T4_v2_st7565/GetFrequency.o
+ .debug_ranges  0x000004a8       0x10 ../Obj/mega328_T4_v2_st7565/ReadBigCap.o
+ .debug_ranges  0x000004b8       0x10 ../Obj/mega328_T4_v2_st7565/ShowData.o
+ .debug_ranges  0x000004c8       0x50 ../Obj/mega328_T4_v2_st7565/sampling_cap.o
+ .debug_ranges  0x00000518       0x40 ../Obj/mega328_T4_v2_st7565/sampling_lc.o
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+ *(.debug_loclists)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+ *(.debug_rnglists)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+OUTPUT(../Obj/mega328_T4_v2_st7565/mega328_T4_v2_st7565.elf elf32-avr)
+LOAD linker stubs
